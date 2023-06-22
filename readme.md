@@ -2,7 +2,7 @@
 This project focuses on customer segmentation using clustering techniques to identify distinct groups of customers based on their behavior metrics. The goal is to gain insights into customer segments and develop targeted strategies for customer engagement, retention, and marketing.
 
 ## Dataset
-The dataset used in this project is sourced from [provide the source or description of the dataset]. It contains customer-related information such as TotalAmount, NumOrders, AvgOrderValue, and TimeSinceLastOrder. The dataset may have been preprocessed or transformed to suit the clustering analysis.
+The dataset used in this project is sourced from kaggle. It contains customer-related information such as TotalAmount, NumOrders, AvgOrderValue, and TimeSinceLastOrder. The dataset may have been preprocessed or transformed to suit the clustering analysis.
 
 ## Methodology
 The project follows the following steps:
